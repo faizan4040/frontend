@@ -1,0 +1,10 @@
+# backend/.gitignore
+node_modules/
+.env
+uploads/
+*.log
+
+# frontend/.gitignore
+node_modules/
+build/
+.env
